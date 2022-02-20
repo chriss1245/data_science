@@ -1,6 +1,6 @@
 ## Data Science Projects
 
-### [Natural Language Processing to determine whether a person is in favour or agianst the death penalty](https://chriss1245.github.io/data_science/)
+### [Natural Language Processing to determine whether a person is in favour or agianst the death penalty](https://chriss1245.github.io/data_science/Exercise.html)
 
 <!--
 You can use the [editor on GitHub](https://github.com/chriss1245/data_science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
